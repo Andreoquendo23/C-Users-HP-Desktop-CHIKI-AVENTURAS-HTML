@@ -1,0 +1,14 @@
+*{
+
+}
+
+header, footer{
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    background-color: rgb(54, 73, 245);
+    align-items: center;
+}
+.flex-container #matriculas {
+
+}
